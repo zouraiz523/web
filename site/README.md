@@ -39,7 +39,7 @@ site/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zouraiz523/vitafit.git
+git clone https://github.com/zouraiz523/web.git
 ```
 
 2. Open `index.html` in your web browser to view the website.
@@ -89,13 +89,7 @@ git clone https://github.com/zouraiz523/vitafit.git
 - Safari (latest)
 - Edge (latest)
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -103,5 +97,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: https://github.com/zouraiz523/vitafit
+https://zouraiz.netlify.app/
+
+Project Link: https://github.com/zouraiz523/web.git
