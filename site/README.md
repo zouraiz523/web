@@ -99,4 +99,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 https://zouraiz.netlify.app/
 
-Project Link: https://github.com/zouraiz523/web.git
+Project Link: https://magical-kringle-328e8b.netlify.app/
+
